@@ -2,4 +2,4 @@
 
 
 
-Este repositório foi criado para fins de estudo.
+Colocando em prática os fundamentos da linguagem aprendidos no Bootcamp da Dio.me
